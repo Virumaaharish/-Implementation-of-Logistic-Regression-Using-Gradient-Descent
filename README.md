@@ -14,7 +14,6 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Define X and Y array.
 4. Define a function for sigmoid, loss, gradient and predict and perform operations.
 
-
 ## Program:
 ```
 /*
